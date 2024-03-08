@@ -3,18 +3,20 @@
 ## Install
 
 First, make sure you have Node.js installed on your system. Then, initialize a new Node.js project and install the required dependencies:
-#npm init -y
 
-#npm install exceljs xlsx
 
-#npm install excel-utils-phuongdh
+# npm init -y
+
+# npm install exceljs xlsx
+
+# npm i excel-utils-phuongdh
 
 
 
 ## Helpful links
-- [Documentation](https://github.com/dauphuong198x/read-files-from-dhp)
+- [Documentation](https://github.com/HP161/excel-utils-phuongdh.git)
 
-- [See on NPM package](https://www.npmjs.com/package/read-files-from-dhp)
+- [See on NPM package](https://www.npmjs.com/package/excel-utils-phuongdh)
 
 ## Licence
 [MIT](./LICENSE)
