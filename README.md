@@ -3,9 +3,12 @@
 ## Install
 
 First, make sure you have Node.js installed on your system. Then, initialize a new Node.js project and install the required dependencies:
-npm init -y
-npm install exceljs xlsx
-npm install excel-utils-phuongdh
+#npm init -y
+
+#npm install exceljs xlsx
+
+#npm install excel-utils-phuongdh
+
 
 
 ## Helpful links
